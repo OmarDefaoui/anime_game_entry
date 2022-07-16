@@ -37917,6 +37917,7 @@ q=n.dx
 if(r>q)s[q]=a
 else{a.a=B.h.i(r+1)
 n.cy[n.cx].b.push(a)}A.a(n.ax,m).ax=1
+n.dy=n.dy==="Type 1"?"Type 2":"Type 1"
 if(b)try{s=A.a(n.db,"_pageController")
 p=t.gQ.a(B.c.gak(s.d))
 r=p.gvx(p)
@@ -38020,6 +38021,7 @@ q=(r==null?$.bE=B.a3:r).fk(0,j,s)
 q.db=A.ay5()
 q.dx=0
 A.a(q.ax,"radioController").ax=1
+q.dy="Type 1"
 p=q.cx=h.a
 r=q.cy
 if(r.length<=p)B.c.E(r,new A.iD(""+(p+1),A.b([],t._P)))
